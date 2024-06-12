@@ -1,0 +1,44 @@
+.homeHeroBox {
+  padding: 20px;
+  margin-top: 10px;
+  /* height: 400px; */
+  background-color: #019934;
+  border-radius: 10px 10px 50px 50px;
+}
+.largeHeading {
+  width: 600px;
+  color: white;
+  font-size: 30px;
+}
+
+.lableMedium {
+  width: 600px;
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.466);
+}
+
+.primaryButtom {
+  padding: 20px 40px;
+  color: #019934;
+  font-weight: 600;
+}
+/* Styles for mobile devices */
+@media only screen and (max-width: 767px) {
+  .largeHeading {
+    width: 90vw;
+  }
+
+  .lableMedium {
+    width: 90vw;
+  }
+}
+
+/* Styles for tablet devices */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .lableMedium {
+    width: 300px;
+  }
+  .largeHeading {
+    width: 300px;
+  }
+}

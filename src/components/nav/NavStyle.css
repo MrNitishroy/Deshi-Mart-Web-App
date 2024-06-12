@@ -1,0 +1,44 @@
+.navBarBox {
+  background-color: var(--primaryColor);
+  padding: 5px 20px;
+  border-radius: 10px;
+  background-color: #019934;
+}
+.menuItem {
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+.menuItem:hover {
+  background-color: #36b460;
+}
+.searchBox {
+  width: calc(100vw - 60vw) !important;
+}
+.searchButton {
+  display: none;
+}
+.profilePic {
+  padding: 2px;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  border: 1px solid white;
+}
+
+/* Styles for mobile devices */
+@media only screen and (max-width: 767px) {
+  .searchBox {
+    display: none;
+  }
+  .searchButton {
+    display: block;
+  }
+}
+
+/* Styles for tablet devices */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+}
