@@ -1,70 +1,25 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# DESHI MART - E COMMERCE PROJECT
 
-## Available Scripts
+Deshi Mart is an E-Commerce platform built with a frontend in React JS and a backend in C# Dot Net. This platform enables users to browse a wide range of products, add them to their cart, and complete orders seamlessly.
+## Key Features Implemented:
 
-In the project directory, you can run:
+- Product Catalog: Users can browse through a diverse selection of products.
+- Shopping Cart: Products can be added to and managed within the cart.
+- Order Placement: Users can securely place orders for selected products.
+- Responsive Ui 
 
-### `npm start`
+## Technologies Used:
+- Frontend: Developed using React JS for a responsive and interactive user interface [UI REPOSITORY ](https://github.com/MrNitishroy/Deshi-Mart-Web-App)
+- Backend: Powered by C# Dot Net, ensuring robust backend functionality and data management. [Repository](https://github.com/MrNitishroy/DesiMart-Server)
+## Screenshots
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-eSnaQNDugAGeSM7kTDqi6IFmIjqUdjNM5dUK9BTYpMyExtFNViQOrTKK08F8WBLn1aiyTQafi5LH0we2xlMfbSLdeTvO2Zl6djYzOYoRJGezKxibzunj2PFpMVhBO1bWCOXI-V0u_pKLAe_aXC95xqAT1S0v7KL6kGH3NIRL_3jwOKwWrbejSJUsSE6J/s1918/UI%20.png)
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf8VDhuIpFRqMoRzm_PZDDDii1tVV0ZVS4PgqzOJj0ieU_Yt6a-g6nPoU4pAg0uaWo1ZniRghx9Gb6RHPQZUnnt6AoLiEzdyZRwjFYnbabWBvDCHbcb73s2V_ZzSkYXGaG1FdSY8v2dq1I_kEJxv2K48Tf1cBZ2DuLAku7iX3YyM12ENzgKEjMkKUIuOjB/s1865/cart.png)
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-zMA8yi0c5lziAd-aYjEIhaLXxTVTKZQKQ2Z_tWb9aBCAmXJv6QoccCoBUyCUG9KdALj417X0ZBb9vC62Izqgi6Gxg1YUNKfvToVSYy7jSZV6M8mR9IcDEMiSjYGu2PE4cTNcDkz7uEsKJ8QjmG5PhUxjqcptKM6gTfqmrn3k_W4QySnUQtVIvvoiYTQC/s1863/product.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Follow
+[YOUTUBE](https://www.youtube.com/@flutterhero) | [LINKEDIN](https://www.linkedin.com/in/mrnitishkr/) | [GITHUB](https://github.com/MrNitishroy)  
