@@ -1,0 +1,19 @@
+.dashbordBox {
+  width: 100vw;
+  display: flex;
+  background-color: #f6f6f6;
+}
+.sideBox {
+  flex: 1;
+  padding: 20px 0px;
+  background-color: white;
+  height: 95vh;
+  border-radius: 10px;
+}
+.sideMenu {
+  background-color: white;
+}
+.contentBox {
+  flex: 6;
+  color: white;
+}

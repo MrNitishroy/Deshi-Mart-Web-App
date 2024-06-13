@@ -29,6 +29,9 @@
   border: 1px solid white;
 }
 
+.profileMenu {
+  position: absolute;
+}
 /* Styles for mobile devices */
 @media only screen and (max-width: 767px) {
   .searchBox {
